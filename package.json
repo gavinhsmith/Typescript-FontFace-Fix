@@ -1,0 +1,10 @@
+{
+  "name": "typescript-fontface-fix",
+  "version": "1.0.0",
+  "description": "Add FontFace, FontFaceSet, FontFaceSetLoadEvent to typescript def",
+  "main": "index.js",
+  "types": "main.d.ts",
+  "keywords": [],
+  "author": "gavinhsmith (https://gavinhsmith.tk/)",
+  "license": "MIT"
+}

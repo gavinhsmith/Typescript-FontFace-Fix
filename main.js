@@ -1,0 +1,1 @@
+console.info(`[TypeScript FontFace Fix] uh funny code I guess?`)
